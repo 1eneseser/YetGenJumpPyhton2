@@ -1,2 +1,4 @@
 # YetGenJumpPyhton2
-Bu repo Jump Pyhton için açılmıştır.
+bu repoyu jump pyhton için açıldı. X
+YARIN NE YAPACAĞIZ. 
+YAC
