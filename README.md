@@ -7,8 +7,11 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
  
   ## 1.Hafta Yapılan Çalışmalar
  -Kodlama ve Pyhton Nedir?
+
  -Pyhton ve Visual Studio Code Kurulumu 
+
  -Github öğrenimi 
+ 
  -Git öğrenimi
 
 
